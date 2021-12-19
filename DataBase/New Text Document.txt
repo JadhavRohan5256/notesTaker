@@ -1,0 +1,4 @@
+userName : root
+password : ""
+
+before importing this table to create note database 
